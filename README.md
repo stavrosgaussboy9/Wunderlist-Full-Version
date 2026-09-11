@@ -237,3 +237,6 @@ This repository serves as the official landing page for Wunderlist. The software
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Wunderlist today!**
+
+---
+**Last updated:** 2026-09-11 14:06:28 UTC
