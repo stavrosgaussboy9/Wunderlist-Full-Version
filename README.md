@@ -239,4 +239,4 @@ This repository serves as the official landing page for Wunderlist. The software
 **Get the most recent version of Wunderlist today!**
 
 ---
-**Last updated:** 2026-10-14 01:40:08 UTC
+**Last updated:** 2026-10-14 07:13:25 UTC
